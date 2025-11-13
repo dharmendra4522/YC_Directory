@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/80927af1-fbbb-4165-baee-6c2790fe4434" /><div align="center">
+<img width="1904" height="754" alt="banner" src="https://github.com/user-attachments/assets/8e1b16ce-3d53-4fc0-a603-5e6ac61672fd" /><div align="center">
 
 
   <div>
@@ -96,6 +96,7 @@ This platform allows users to explore startup ideas, submit new pitches, and bro
 ```bash
 git clone https://github.com/dharmendra4522/YC_Directory.git
 cd YC_Directory
+
 
 
 
