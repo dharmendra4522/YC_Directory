@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/80927af1-fbbb-4165-baee-6c2790fe4434" /><div align="center">
   <br />
       <img src="https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99" alt="Project Banner">
   <br />
@@ -23,7 +23,6 @@
 
 🚀 **Live Project:**  
 👉 https://your-live-link-here.com  
-(Replace this URL with your real deployment link)
 
 ---
 
@@ -32,6 +31,8 @@
 > Replace the image links with your own screenshots
 
 ### **Homepage**
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/a014e9e0-b6c9-4e91-9ba2-aff71000982b" />
+
 ![Homepage](https://github.com/user-attachments/assets/sample-homepage-image.png)
 
 ### **Pitch Details**
@@ -96,3 +97,4 @@ This platform allows users to explore startup ideas, submit new pitches, and bro
 ```bash
 git clone https://github.com/dharmendra4522/YC_Directory.git
 cd YC_Directory
+
