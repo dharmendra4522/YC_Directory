@@ -1,7 +1,5 @@
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/80927af1-fbbb-4165-baee-6c2790fe4434" /><div align="center">
-  <br />
-      <img src="https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99" alt="Project Banner">
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=react&color=3178C6" />
@@ -98,5 +96,6 @@ This platform allows users to explore startup ideas, submit new pitches, and bro
 ```bash
 git clone https://github.com/dharmendra4522/YC_Directory.git
 cd YC_Directory
+
 
 
