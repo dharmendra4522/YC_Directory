@@ -33,16 +33,17 @@
 ### **Homepage**
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/a014e9e0-b6c9-4e91-9ba2-aff71000982b" />
 
-![Homepage](https://github.com/user-attachments/assets/sample-homepage-image.png)
 
 ### **Pitch Details**
-![Details](https://github.com/user-attachments/assets/sample-details-image.png)
+<img width="1920" height="1080" alt="PitchDetails" src="https://github.com/user-attachments/assets/e0fc8aea-0326-4973-9ac1-2fe0dd6ec743" />
+
 
 ### **Submit Idea Form**
-![Submit Form](https://github.com/user-attachments/assets/sample-form-image.png)
+<img width="1920" height="1080" alt="SubmitForm" src="https://github.com/user-attachments/assets/9b64069e-7c01-46fb-9179-102665e4b020" />
+
 
 ### **Profile Page**
-![Profile](https://github.com/user-attachments/assets/sample-profile-image.png)
+<img width="1920" height="1080" alt="Profile" src="https://github.com/user-attachments/assets/5c188ea2-de0a-4417-b225-0ab96fc8efdd" />
 
 ---
 
@@ -97,4 +98,5 @@ This platform allows users to explore startup ideas, submit new pitches, and bro
 ```bash
 git clone https://github.com/dharmendra4522/YC_Directory.git
 cd YC_Directory
+
 
